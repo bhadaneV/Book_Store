@@ -112,15 +112,6 @@ online-book-store/
 ├── pom.xml
 └── README.md
 ```
-
----
-
-## ✨ Credits
-
-Developed by [SLoharkar](https://github.com/SLoharkar)
-
----
-
 ## ✅ License
 
 This project is open-source and available under the MIT License.
