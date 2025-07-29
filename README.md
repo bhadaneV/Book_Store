@@ -1,7 +1,6 @@
 # Online Book Store
 
 An Online Book Store web application built using **Spring Boot**, **Thymeleaf**, and supports **both MySQL and H2 databases**. It allows users to register, browse, search, purchase, rate, and review books.
-
 ---
 
 ## 📅 Project Features
